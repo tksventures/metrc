@@ -18,6 +18,7 @@
   "homepage": "https://github.com/toddrun/metrc#readme",
   "devDependencies": {
     "lodash": "^4.17.5",
+    "mocha": "^5.2.0",
     "nock": "^9.1.4",
     "sinon": "^4.1.3"
   },
