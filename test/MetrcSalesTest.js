@@ -1,7 +1,4 @@
-
-
 const sinon = require('sinon');
-const assert = require('assert');
 const MetrcSales = require('../lib/MetrcSales');
 const Metrc = require('../lib/Metrc');
 const bulkHandler = require('../lib/helpers/bulkHandler');
